@@ -1,0 +1,38 @@
+body{
+height: 800px ;
+width: 1000px;
+    background-color: white;
+}
+
+#bar1 {
+        height: 25%;
+        width: 100%;
+    background-color:red;
+
+}
+#bar2 {
+    height:25%;
+    width:100%;
+    float:left;
+    background-color: aqua;
+}
+
+#bar3 {
+    height: 25%;
+    width:50%;
+    float:left;
+    background-color: bisque;
+}
+#bar4 {
+    height:25%;
+    width:50%;
+    background-color: pink;
+    float:left;
+}
+
+#bar5 {
+    height:25%;
+    width:100%;
+    background-color: green;
+    float:left;
+}
