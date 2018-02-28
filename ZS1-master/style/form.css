@@ -1,0 +1,25 @@
+#form1{
+
+    width: 300px ;
+    background-color: aqua;
+    color:white;
+}
+
+legend{
+    font-family: fantasy;
+    color:black;
+    font-size: 25px;
+}
+
+#form2{
+    background-color: aquamarine;
+    width: 150px;
+    padding:  5px;
+    margin-top: 20px;
+}
+#form3{
+    background-color: lightblue;
+    margin-top: 20px;
+    width: 200px;
+    padding:5px;
+}
